@@ -24,7 +24,9 @@ a:hover {
 .text-primary {
   color:  #2C3C8E !important;
 }
-
+.color-custom-brand:hover {
+color:#a88918;
+}
 h1,
 h2,
 h3,
